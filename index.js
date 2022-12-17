@@ -56,6 +56,6 @@ app.post("/", (req, res) => {
         console.log("Record Inserted Successfully");
     });
 
-    return res.redirect('https://sarkar-gov.netlify.app/');
+    return res.redirect('https://sarkargovin.netlify.app/');
 
 })
